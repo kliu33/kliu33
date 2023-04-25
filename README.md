@@ -1,3 +1,6 @@
+
+![giphy](https://user-images.githubusercontent.com/30753677/234390477-830e9148-0f5c-46d8-93ad-3efdd1a2f33c.gif)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/kevin-liu-3a5b96158/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,9 +12,11 @@
 
 ### Hi there 👋
 
-![giphy](https://user-images.githubusercontent.com/30753677/234390477-830e9148-0f5c-46d8-93ad-3efdd1a2f33c.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kliu33&show_icons=true&theme=transparent)
+## Technologies
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,express,nodejs,d3,ruby,rails,py,html,css,vscode,postman,git,sqlite&perline=8&theme=light)](https://skills.thijs.gg)
+
+## Coding Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kliu33&theme=transparent)](https://git.io/streak-stats)
 
