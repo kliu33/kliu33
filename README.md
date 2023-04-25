@@ -1,5 +1,13 @@
+### Hi there 👋
 
 ![giphy](https://user-images.githubusercontent.com/30753677/234390477-830e9148-0f5c-46d8-93ad-3efdd1a2f33c.gif)
+
+## About me
+- 1
+- 2
+- 3
+- 4
+- 5
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kevin-liu-3a5b96158/">
@@ -9,8 +17,6 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
-
-### Hi there 👋
 
 
 ## Technologies
