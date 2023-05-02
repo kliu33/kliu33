@@ -16,6 +16,9 @@
   <a href="https://github.com/kliu33">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <a href="[your-wellfound-URL](https://wellfound.com/u/kevin-liu-149)">
+  <img src="https://img.shields.io/badge/Wellfound-white?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound Badge"/>
+</a>
 </div>
 
 
