@@ -3,11 +3,10 @@
 ![giphy](https://user-images.githubusercontent.com/30753677/234390477-830e9148-0f5c-46d8-93ad-3efdd1a2f33c.gif)
 
 ## About me
-- 1
-- 2
-- 3
-- 4
-- 5
+- ⌨️ I’m interested in on-site or remote software engineering positions.
+- 📖 I’m currently working on learning TypeScript.
+- ⚾ I built a Machine Learning model using Python that predicts the amount of runs scored in an MLB game
+- 📨 You can reach me at kliu33@buffalo.edu or through [LinkedIn](https://www.linkedin.com/in/kliu33/).
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kliu33/">
