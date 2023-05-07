@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kevin👋
 
 ![giphy](https://user-images.githubusercontent.com/30753677/234390477-830e9148-0f5c-46d8-93ad-3efdd1a2f33c.gif)
 
@@ -7,6 +7,7 @@
 - 📖 I’m currently working on learning TypeScript.
 - ⚾ I built a Machine Learning model using Python that predicts the amount of runs scored in an MLB game
 - 📨 You can reach me at kliu33@buffalo.edu or through [LinkedIn](https://www.linkedin.com/in/kliu33/).
+- Learn more about me and my projects at [kaiwen.dev](https://kaiwen.dev/).
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kliu33/">
